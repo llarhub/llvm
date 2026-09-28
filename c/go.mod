@@ -1,4 +1,4 @@
-module github.com/llarhub/llvm-c/c
+module github.com/llarhub/llvm/c
 
 go 1.20
 
